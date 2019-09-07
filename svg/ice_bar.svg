@@ -1,17 +1,19 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <!-- Generator: Adobe Illustrator 23.0.6, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="&#x30EC;&#x30A4;&#x30E4;&#x30FC;_1"
-	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 500 500"
-	 style="enable-background:new 0 0 500 500;" xml:space="preserve">
-<path id="&#x30D0;&#x30FC;" style="fill:#FFFFFF;stroke:#50342F;stroke-width:2;stroke-miterlimit:10;" d="M255.18,462.327H244.82
-	c-4.677,0-8.504-3.827-8.504-8.504V128.463c0-4.677,3.827-8.504,8.504-8.504h10.361c4.677,0,8.504,3.827,8.504,8.504v325.359
-	C263.684,458.5,259.857,462.327,255.18,462.327z"/>
-<path id="&#x306F;&#x307F;&#x51FA;&#x3057;" style="fill:#040000;stroke:#50342F;stroke-width:2;stroke-miterlimit:10;" d="
-	M288.496,330h-76.992c-4.677,0-8.504-3.827-8.504-8.504V316h94v5.496C297,326.173,293.173,330,288.496,330z"/>
-<path id="&#x5168;&#x4F53;" style="fill:#CCCCCC;stroke:#CCCCCC;stroke-width:2;stroke-miterlimit:10;" d="M318,317H182
-	c-6.6,0-12-5.4-12-12V49c0-6.6,5.4-12,12-12h136c6.6,0,12,5.4,12,12v256C330,311.6,324.6,317,318,317z"/>
-<path id="&#x3059;&#x3058;" style="fill:#FFFFFF;stroke:#50342F;stroke-width:2;stroke-miterlimit:10;" d="M217.812,277.876h-6.224
-	c-4.677,0-8.504-3.827-8.504-8.504V37h23.232v232.372C226.316,274.05,222.489,277.876,217.812,277.876z"/>
-<path id="&#x3059;&#x3058;_1_" style="fill:#FFFFFF;stroke:#50342F;stroke-width:2;stroke-miterlimit:10;" d="M288.413,277.876
-	h-6.224c-4.677,0-8.504-3.827-8.504-8.504V37h23.232v232.372C296.917,274.05,293.09,277.876,288.413,277.876z"/>
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 512 512"
+	 style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<g>
+	<path id="&#x30D0;&#x30FC;" style="fill:#FFFFFF;stroke:#50342F;stroke-width:2;stroke-miterlimit:10;" d="M261.18,464H250.82
+		c-4.677,0-8.504-3.827-8.504-8.504V131.204c0-4.677,3.827-8.504,8.504-8.504h10.361c4.677,0,8.504,3.827,8.504,8.504v324.292
+		C269.684,460.173,265.857,464,261.18,464z"/>
+	<path id="&#x306F;&#x307F;&#x51FA;&#x3057;" style="fill:#040000;stroke:#50342F;stroke-width:2;stroke-miterlimit:10;" d="
+		M294.496,332.086h-76.992c-4.677,0-8.504-3.827-8.504-8.504v-5.452h94v5.452C303,328.259,299.173,332.086,294.496,332.086z"/>
+	<path id="&#x5168;&#x4F53;" style="fill:#CCCCCC;stroke:#CCCCCC;stroke-width:2;stroke-miterlimit:10;" d="M320,319.127H192
+		c-8.8,0-16-7.2-16-16V56c0-8.8,7.2-16,16-16h128c8.8,0,16,7.2,16,16v247.127C336,311.927,328.8,319.127,320,319.127z"/>
+	<path id="&#x3059;&#x3058;" style="fill:#FFFFFF;stroke:#50342F;stroke-width:2;stroke-miterlimit:10;" d="M223.812,280.125h-6.224
+		c-4.677,0-8.504-3.827-8.504-8.504V40h23.232v231.621C232.316,276.298,228.489,280.125,223.812,280.125z"/>
+	<path id="&#x3059;&#x3058;_1_" style="fill:#FFFFFF;stroke:#50342F;stroke-width:2;stroke-miterlimit:10;" d="M294.413,280.125
+		h-6.224c-4.677,0-8.504-3.827-8.504-8.504V40h23.232v231.621C302.917,276.298,299.09,280.125,294.413,280.125z"/>
+</g>
 </svg>
