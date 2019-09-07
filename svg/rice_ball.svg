@@ -4,9 +4,9 @@
 	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 500 500"
 	 style="enable-background:new 0 0 500 500;" xml:space="preserve">
 <g>
-	<path style="fill:#FFFFFF;stroke:#50342F;stroke-miterlimit:10;" d="M409.318,307.481L305.767,128.125
-		c-24.785-42.929-86.748-42.929-111.534,0L90.682,307.481c-24.785,42.929,6.196,96.591,55.767,96.591h207.103
-		C403.122,404.072,434.103,350.41,409.318,307.481z"/>
-	<rect x="171.717" y="247.506" style="fill:#CCCCCC;stroke:#CCCCCC;stroke-miterlimit:10;" width="156.566" height="156.566"/>
+	<path style="fill:#FFFFFF;stroke:#50342F;stroke-miterlimit:10;" d="M409.318,306.409L305.767,127.053
+		c-24.785-42.929-86.748-42.929-111.534,0L90.682,306.409C65.897,349.338,96.878,403,146.449,403h207.103
+		C403.122,403,434.103,349.338,409.318,306.409z"/>
+	<rect x="172" y="247" style="fill:#CCCCCC;stroke:#CCCCCC;stroke-miterlimit:10;" width="156" height="156"/>
 </g>
 </svg>
