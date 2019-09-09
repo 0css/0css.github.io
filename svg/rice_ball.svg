@@ -6,5 +6,5 @@
 <path style="fill:#FFFFFF;stroke:#50342F;stroke-miterlimit:10;" d="M415.318,311.409L311.767,132.053
 	c-24.785-42.929-86.748-42.929-111.534,0L96.682,311.409C71.897,354.338,102.878,408,152.449,408h207.103
 	C409.122,408,440.103,354.338,415.318,311.409z"/>
-<rect x="176" y="248" style="fill:#CCCCCC;stroke:#CCCCCC;stroke-miterlimit:10;" width="160" height="160"/>
+<rect x="176" y="248" style="fill:#CCCCCC;" width="160" height="160"/>
 </svg>
