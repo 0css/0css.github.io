@@ -7,7 +7,7 @@
 <rect x="160.016" y="143.255" style="fill:none;stroke:#50342F;stroke-miterlimit:10;" width="187.378" height="31.787"/>
 <polygon style="fill:none;stroke:#50342F;stroke-miterlimit:10;" points="324.516,450.828 182.516,450.828 157.516,206.828 
 	349.516,206.828 "/>
-<polygon style="fill:#CCCCCC;stroke:#CCCCCC;stroke-miterlimit:10;" points="153,240 162.745,328 343.254,328 353,240 "/>
+<polygon style="fill:#CCCCCC;" points="153,240 161,328 345,328 353,240 "/>
 <g id="&#x6E6F;&#x6C17;">
 	<path style="fill:none;stroke:#50342F;" d="M209.969,113.243c-2.146,7.467-5.549,13.203-4.514,15.282
 		c1.892-0.204,7.237-3.713,11.892-12.31c2.208-4.266,3.837-9.982,3.558-16.166c-0.262-6.14-2.551-12.455-5.491-17.655
